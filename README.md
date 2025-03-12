@@ -1,9 +1,15 @@
-## 👋 Olá, sou Pablo Souza!
+## 👋 Hi there, I'm Pablo Souza!
 
-### 🎓Sobre mim: 
+### 🎓 About me:
+<br/>
+🌍 Based in Brazil.<br/>
 
-📚 Atualmente cursando Gestão em tecnologia da Informação na (UNASP).
-🎓 Técnico em informática.
-💻 Desenvolvedor em <div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+📚 Currently studying Information Technology Management  (UNASP).<br/>
+
+🎓 Computer technician.<br/>
+<div style="display: inline_block">  <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> estudante de Python </div><br/>
+
+### 👩‍💻 Professional interests:
+<br/>
+📱 Web Application Development.<br/>
+🛠️ Continuously exploring new technologies and methodologies in IA .<br/>
