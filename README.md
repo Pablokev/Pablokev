@@ -5,7 +5,6 @@
 🌍 Based in Brazil.<br/>
 
 📚 Currently studying Information Technology Management  (UNASP).<br/>
-
 🎓 Computer technician.<br/>
 <div style="display: inline_block">  <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> estudante de Python </div><br/>
 
